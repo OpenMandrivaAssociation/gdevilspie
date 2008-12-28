@@ -1,6 +1,6 @@
 %define name gdevilspie
 %define version 0.31
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: GTK GUI for devilspie
 Name: %{name}
