@@ -49,3 +49,31 @@ rm -rf $RPM_BUILD_ROOT
 %_datadir/%name
 %_datadir/pixmaps/%name.png
 %py_puresitedir/g*
+
+
+%changelog
+* Fri Nov 04 2011 Götz Waschk <waschk@mandriva.org> 0.31-5mdv2012.0
++ Revision: 717578
+- rebuild
+
+* Wed Nov 03 2010 Götz Waschk <waschk@mandriva.org> 0.31-4mdv2011.0
++ Revision: 592835
+- rebuild for new python 2.7
+
+* Fri Sep 11 2009 Thierry Vignaud <tv@mandriva.org> 0.31-3mdv2011.0
++ Revision: 437666
+- rebuild
+
+* Sun Dec 28 2008 Götz Waschk <waschk@mandriva.org> 0.31-2mdv2009.1
++ Revision: 320640
+- rebuild for new python
+
+* Tue Jun 17 2008 Götz Waschk <waschk@mandriva.org> 0.31-1mdv2009.0
++ Revision: 222013
+- new version
+
+* Tue Apr 01 2008 Götz Waschk <waschk@mandriva.org> 0.3-1mdv2008.1
++ Revision: 191344
+- import gdevilspie
+
+
