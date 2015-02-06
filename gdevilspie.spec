@@ -1,7 +1,7 @@
 Summary:	GTK GUI for devilspie
 Name:		gdevilspie
 Version:	0.5
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPLv3+
 Group:		Graphical desktop/GNOME
