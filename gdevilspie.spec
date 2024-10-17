@@ -5,7 +5,7 @@ Release:	2
 Epoch:		1
 License:	GPLv3+
 Group:		Graphical desktop/GNOME
-Url:		http://code.google.com/p/gdevilspie/
+Url:		https://code.google.com/p/gdevilspie/
 Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(python)
 Requires:	devilspie
